@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Dark" parent="Theme.AppCompat">
+        <item name="android:navigationBarColor">#009688</item>
+        <item name="android:statusBarColor">#009688</item>
+        <item name="colorPrimary">#009688</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+</resources>
